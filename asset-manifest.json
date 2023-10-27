@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mern_color_picker/static/css/main.6c64d207.css",
+    "main.js": "/mern_color_picker/static/js/main.9b9d9729.js",
+    "static/js/787.05b7a068.chunk.js": "/mern_color_picker/static/js/787.05b7a068.chunk.js",
+    "index.html": "/mern_color_picker/index.html",
+    "main.6c64d207.css.map": "/mern_color_picker/static/css/main.6c64d207.css.map",
+    "main.9b9d9729.js.map": "/mern_color_picker/static/js/main.9b9d9729.js.map",
+    "787.05b7a068.chunk.js.map": "/mern_color_picker/static/js/787.05b7a068.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c64d207.css",
+    "static/js/main.9b9d9729.js"
+  ]
+}
